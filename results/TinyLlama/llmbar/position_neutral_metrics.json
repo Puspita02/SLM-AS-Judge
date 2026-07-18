@@ -1,5 +1,5 @@
 {
-    "Accuracy": 0.4286,
-    "Position_Bias": 0.2148,
-    "Verbosity_Correlation": 0.058
+    "Accuracy": 0.5,
+    "Position_Bias": 0.0215,
+    "Verbosity_Correlation": -0.0435
 }
